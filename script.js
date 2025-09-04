@@ -19,6 +19,7 @@ document.getElementById("registrationForm").addEventListener("reset", function (
   const message = document.getElementById("message");
   message.textContent = "Form has been reset. Ready for new registration!";
   message.style.color = "blue";
+
 });document.getElementById("registrationForm").addEventListener("submit", function (e) {
   e.preventDefault();
 
@@ -41,3 +42,6 @@ document.getElementById("registrationForm").addEventListener("reset", function (
   message.textContent = "Form has been reset. Ready for new registration!";
   message.style.color = "blue";
 });
+
+});changes are made in script.js
+changes are made to script.js 
